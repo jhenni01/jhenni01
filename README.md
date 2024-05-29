@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jhenni01/jhenni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jhennifer
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📧
+
+- jhenni012@gmail.com
+
+![](![image](https://github.com/jhenni01/jhenni01/assets/171171973/69f2b56b-9761-4e95-a891-09c6dbfefbb3)
+
+
+
